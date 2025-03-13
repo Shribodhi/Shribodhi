@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PawRescue](https://sdgp-paw-rescue-8tad.vercel.app/)
 
-- 🌱 I’m currently learning **Flutter Framework, React, Spring Boot, etc.**
+- 🌱 I’m currently learning **Flutter, React, Spring Boot, etc.**
 
 - 💬 Ask me about **#BackendDev #SoftwarePrinciples #FrontendDev**
 
